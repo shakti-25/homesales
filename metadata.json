@@ -1,0 +1,6 @@
+{
+  "name": "AI Track Live - Field Sales & Visit Analytics",
+  "description": "Enterprise field sales visit tracker with mandatory GPS location verification, reverse geocoding, role-based access controls, Excel reporting, and admin productivity metrics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
